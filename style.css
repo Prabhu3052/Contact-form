@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    background: linear-gradient(135deg, #667eea, #764ba2);
+    background: linear-gradient(135deg, #5372fb, #b069f7);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
   }
   
   .form-container {
-    background: rgba(255, 255, 255, 0.2);
+    background: rgb(98, 214, 246);
     padding: 25px;
     border-radius: 0% 25% 0% 25%;
     box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
